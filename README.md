@@ -6,7 +6,7 @@
 
 ### About Me
 
-* 📚 Practicing Data Structures and Algorithms using C++.
+* 📚 Practicing Data Structures and Algorithms using Java.
 * 🛠️ Building projects in web development and backend engineering.
 * 🌱 Learning and improving my understanding of software development and computer science fundamentals.
 * 🎯 Working toward software engineering internship opportunities.
